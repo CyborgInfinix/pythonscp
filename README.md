@@ -1,2 +1,2 @@
 # pythonscp
-python Script
+This is a python script to capture the flag 
